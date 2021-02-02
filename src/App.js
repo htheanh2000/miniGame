@@ -36,19 +36,21 @@ function App() {
   useEffect(() => {
       console.log("score", score);
     if (score >= 2000) {
-      setLevel(4)
       setDuration(3)
     } 
-    else 
-    if (score >= 1000) {
-      setLevel(3)
-      setDuration(2)
-    }
-    else
-    if (score >= 100) {
-      setLevel(2)
+    else  if (score >= 1000) {
       setDuration(4)
+    }
+    else  if (score >= 400) {
+      setLevel(4)
     } 
+    else  if (score >= 300) {
+      setLevel(3)
+    }
+    else  if (score >= 200) {
+      setLevel(2)
+    }
+    
    
   }, [score])
 
