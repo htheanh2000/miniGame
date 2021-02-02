@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/miniGame/static/css/main.1d268d96.chunk.css",
+    "main.js": "/miniGame/static/js/main.846ec020.chunk.js",
+    "main.js.map": "/miniGame/static/js/main.846ec020.chunk.js.map",
+    "runtime-main.js": "/miniGame/static/js/runtime-main.f5820f35.js",
+    "runtime-main.js.map": "/miniGame/static/js/runtime-main.f5820f35.js.map",
+    "static/js/2.2c773133.chunk.js": "/miniGame/static/js/2.2c773133.chunk.js",
+    "static/js/2.2c773133.chunk.js.map": "/miniGame/static/js/2.2c773133.chunk.js.map",
+    "static/js/3.a5b59ef5.chunk.js": "/miniGame/static/js/3.a5b59ef5.chunk.js",
+    "static/js/3.a5b59ef5.chunk.js.map": "/miniGame/static/js/3.a5b59ef5.chunk.js.map",
+    "index.html": "/miniGame/index.html",
+    "static/css/main.1d268d96.chunk.css.map": "/miniGame/static/css/main.1d268d96.chunk.css.map",
+    "static/js/2.2c773133.chunk.js.LICENSE.txt": "/miniGame/static/js/2.2c773133.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5820f35.js",
+    "static/js/2.2c773133.chunk.js",
+    "static/css/main.1d268d96.chunk.css",
+    "static/js/main.846ec020.chunk.js"
+  ]
+}
